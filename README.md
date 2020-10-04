@@ -8,5 +8,6 @@ https://ai4bharat.org/articles/sign-board
 
 Acknowledgement & Credits for Code/Model:
 https://github.com/meijieru/crnn.pytorch
+
 https://github.com/bgshih/crnn#train-a-new-model
 
